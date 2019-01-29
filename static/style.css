@@ -1,0 +1,14 @@
+#whyus {
+    background:#f7f7f7;
+}
+
+.whyusblock {
+
+ }
+
+  .whyusblock:hover {
+      background:#fff;
+      -webkit-box-shadow: 0px 0px 30px -10px rgba(0,0,0,0.67);
+      -moz-box-shadow: 0px 0px 30px -10px rgba(0,0,0,0.67);
+      box-shadow: 0px 0px 30px -10px rgba(0,0,0,0.67);
+}
